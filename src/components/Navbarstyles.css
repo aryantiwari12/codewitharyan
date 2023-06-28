@@ -14,7 +14,7 @@
     font-size: 1.2rem;
     font-weight: 500;
 }
-@media only screen and(max-width:1040px) {
+@media (max-width:1040px) {
      .nav-menu{
         flex-direction: column;
         justify-content: center;
