@@ -6,7 +6,7 @@ import Hero from "../components/HeroImg2";
 const Project = () => {
   return <div>
     <NavBar/>
-      <Hero/>
+      <Hero heading="PROJECTS." text="Some of"/>
     <Footer/>
     </div>;
 };

@@ -1,10 +1,10 @@
 import "../components/HeroImg2Styles.css"
-const Hero=()=>{
+const Hero=(props:any)=>{
     return(
        <div className="hero-img">
           <div className="heading">
-            <h1>This is a heading</h1>
-            <p>This a text</p>
+            <h1>{props.heading}</h1>
+            <p>{props.text}</p>
           </div>
        </div>
     )

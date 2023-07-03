@@ -17,6 +17,19 @@
     z-index: -1;
   
 }
+.hero-img h1{
+    font-size: 2.4rem;
+
+}
+.hero-img p{
+    font-size: 1.4rem;
+    text-align: center;
+}
+@media (max-width:640px){
+    .hero-img h1{
+        font-size: 2rem;
+    }
+}
 .heading{
     width: 100%;
     height: 100%;
