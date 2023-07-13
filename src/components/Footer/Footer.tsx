@@ -3,6 +3,7 @@ import "../Footer/Footerstyle.css"
 const Footer = () => {
   return (
     <div className="footer">
+      <div className="container">
       <div className="footer-container">
         <div className="left">
           <div className="location">
@@ -38,6 +39,7 @@ const Footer = () => {
               style={{ color: "#fff", marginRight: "2rem" }} />
           </div>
         </div>
+      </div>
       </div>
     </div>
   )
