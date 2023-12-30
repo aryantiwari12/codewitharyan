@@ -9,7 +9,7 @@ const Project = () => {
     <NavBar/>
       <Hero heading="PROJECTS." text="Some of my most recent works"/>
        <WorkCard/>
-       <PricingCard/>
+       {/* <PricingCard/> */}
     <Footer/>
     </div>;
 };

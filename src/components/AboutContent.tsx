@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom"
 import "../components/AboutContentstyle.css"
-import boys from '../assets/boys.avif'
+import boys from '../assets/boys.jpg'
+
+
 const AboutContent = () => {
   const Language = [
     {
@@ -51,10 +53,12 @@ const AboutContent = () => {
           <div className="col-md-7 order-2 order-md-1">
             <div className="left">
               <h1>Who Am I?</h1>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores, impedit assumenda tenetur ut veniam deleniti. Cupiditate, iure unde odio mollitia sapiente quia pariatur delectus tempore modi aut soluta obcaecati ipsam?</p>
-              <Link to="/contact" className="mt-2">
+              <p>I am Aryan Tiwari.am  belong from Vranasi in UP and my current Location in Mohali Punjab,I have Done BCA from  UP College in Varanasi and i have Done
+                 MCA in Chandigarh University,am working on Henceforth Solution Pvt Ltd,in REACT JS DEVELOPER My total experiences in 1.7 years.  
+              </p>
+              <a href="https://drive.google.com/file/d/1dmgsCJwwdXPlx4_s2lNR2NFv1llzulSF/view?usp=sharing" target="_blank" className="mt-2">
                 <button className="btn">Download CV</button>
-              </Link>
+              </a>
               <div className="row gy-3 mt-3">
                 {Language.map((res: any, index: number) => {
                   return (
