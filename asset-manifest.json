@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codewitharyan/static/css/main.3fc6559a.css",
+    "main.js": "/codewitharyan/static/js/main.ba1b7e74.js",
+    "static/media/boys.jpg": "/codewitharyan/static/media/boys.6d3ed8c52af1417aeb91.jpg",
+    "static/media/Kun.png": "/codewitharyan/static/media/Kun.99469596d25a633caa47.png",
+    "static/media/Lancha.png": "/codewitharyan/static/media/Lancha.7add1a3d42ffa4144c32.png",
+    "static/media/airbnb.png": "/codewitharyan/static/media/airbnb.d9ad0110c6bfe6ae1b58.png",
+    "static/media/Q.png": "/codewitharyan/static/media/Q.3d2e19f11e0a25f08d28.png",
+    "static/media/project1.png": "/codewitharyan/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/Re.png": "/codewitharyan/static/media/Re.b9fde69b74d82ebb0308.png",
+    "static/media/click.png": "/codewitharyan/static/media/click.85d2bf134267901380fc.png",
+    "static/media/intro-bg.jpg": "/codewitharyan/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "index.html": "/codewitharyan/index.html",
+    "main.3fc6559a.css.map": "/codewitharyan/static/css/main.3fc6559a.css.map",
+    "main.ba1b7e74.js.map": "/codewitharyan/static/js/main.ba1b7e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc6559a.css",
+    "static/js/main.ba1b7e74.js"
+  ]
+}
